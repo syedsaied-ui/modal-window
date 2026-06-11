@@ -14,11 +14,14 @@ A simple implementation of modal (popup) windows using JavaScript.
 
 ## ▶️ How to Run
 
-1. Open the project folder
-2. Double click "index.html"
+1. Clone the repository  
+2. Open the project folder  
+3. Open "index.html" in your browser  
 
-OR (recommended):
-Use VS Code Live Server
+OR use VS Code Live Server
+
+## 📸 Preview
+<img width="1920" height="910" alt="modal" src="https://github.com/user-attachments/assets/2a0d86fc-fe52-4492-8858-e3030a1d6e86" />
 
 ## 📌 Author
 
